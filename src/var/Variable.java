@@ -11,4 +11,5 @@ public class Variable {
     public static final String VK = "https://vk.com/";
     public static final String SALESFORCE = "https://login.salesforce.com/";
     public static final String REDIFF = "https://www.rediff.com/";
+    public static final String EBOOKS = "https://it-ebooks.info/";
 }
